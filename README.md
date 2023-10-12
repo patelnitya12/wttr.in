@@ -43,7 +43,7 @@ Invoke-RestMethod https://wttr.in
 Want to get the weather information for a specific location? You can add the desired location to the URL in your
 request like this:
 
-    $ curl wttr.in/London
+    curl wttr.in/London
     $ curl wttr.in/Moscow
     $ curl wttr.in/Salt+Lake+City
 
